@@ -1,0 +1,26 @@
+body{
+    background-color: #CCCCFF; 
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    .container{
+                margin-top: 80px;
+                .title-song{
+                            text-shadow: 1px 1px 3px #000;   
+                }
+                .verses{
+                        .verse{
+                            width: 50%;
+                            margin: 30px auto;
+	                        border-radius: 4px;
+	                        padding: 5px;
+	                        box-shadow: 2px 2px 20px #444;
+	                        p{
+	                            font-size: 20px;    
+	                       }
+                        }    
+                }
+        }
+    }
+
+
+
