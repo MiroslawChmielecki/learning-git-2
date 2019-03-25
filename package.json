@@ -1,0 +1,27 @@
+{
+  "name": "nauka-gita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiroslawChmielecki/nauka-gita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiroslawChmielecki/nauka-gita/issues"
+  },
+  "homepage": "https://github.com/MiroslawChmielecki/nauka-gita#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  },
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
+  }
+}
