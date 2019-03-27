@@ -20,6 +20,8 @@ Options:
   -i, --info               show selected browsers and properties
   -h, --help               show help text
   -v, --version            print program version
+  
+  Komenda z zadania: autoprefixer-cli -o style.prefixed.css style.css
 
 
 
